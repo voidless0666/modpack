@@ -1,0 +1,1508 @@
+{
+  "id": "voidless_modpack_create",
+  "name": "Voidless's Modpack",
+  "version": "1.0",
+  "mcVersion": "1.16.5",
+  "authors": [
+    "invaliduuid"
+  ],
+  "description": "Voidless's Modpack based around the mod 'create' for forge 1.16.5",
+  "url": "",
+  "type": "FORGE",
+  "mods": [
+    {
+      "id": "abnormalscore",
+      "name": "Abnormals Core",
+      "version": "3.1.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "notjaackson",
+        "SmellyModder",
+        "bageldotjpg"
+      ],
+      "projectId": "382216",
+      "fileId": "3218058",
+      "type": "BOTH"
+    },
+    {
+      "id": "abnormalsdelight",
+      "name": "Abnormals Delight",
+      "version": "1.0.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "paradiscal",
+        "bageldotjpg"
+      ],
+      "projectId": "442719",
+      "fileId": "3222472",
+      "type": "BOTH"
+    },
+    {
+      "id": "additionalbanners",
+      "name": "Additional Banners",
+      "version": "6.0.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "230137",
+      "fileId": "3170181",
+      "type": "BOTH"
+    },
+    {
+      "id": "aiimprovements",
+      "name": "AI Improvements",
+      "version": "0.3.0",
+      "mcVersion": "1.16.2+",
+      "authors": [
+        "DarkGuardsman",
+        "bl4ckscor3",
+        "dmodoomsirius"
+      ],
+      "projectId": "233019",
+      "fileId": "3031978",
+      "type": "BOTH"
+    },
+    {
+      "id": "akashictome",
+      "name": "Akashic Tome",
+      "version": "1.4-16",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Vazkii"
+      ],
+      "projectId": "250577",
+      "fileId": "3190372",
+      "type": "BOTH"
+    },
+    {
+      "id": "antiqueatlas",
+      "name": "Antique Atlas",
+      "version": "5.4.4",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Hunternif",
+        "kenkron",
+        "tyra314"
+      ],
+      "projectId": "227795",
+      "fileId": "3178423",
+      "type": "BOTH"
+    },
+    {
+      "id": "architecturyapiforge",
+      "name": "Architectury API (Forge)",
+      "version": "1.8.130",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "shedaniel",
+        "MaxNeedsSnacks"
+      ],
+      "projectId": "419699",
+      "fileId": "3222916",
+      "type": "BOTH"
+    },
+    {
+      "id": "atmospheric",
+      "name": "Atmospheric",
+      "version": "3.0.0",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "paradiscal",
+        "bageldotjpg"
+      ],
+      "projectId": "362393",
+      "fileId": "3154934",
+      "type": "BOTH"
+    },
+    {
+      "id": "attributefix",
+      "name": "AttributeFix",
+      "version": "10.0.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "280510",
+      "fileId": "3170246",
+      "type": "BOTH"
+    },
+    {
+      "id": "autoreglib",
+      "name": "AutoRegLib",
+      "version": "1.6-47",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Vazkii"
+      ],
+      "projectId": "250363",
+      "fileId": "3128555",
+      "type": "BOTH"
+    },
+    {
+      "id": "yungsbettermineshaftsforge",
+      "name": "YUNG's Better Mineshafts (Forge)",
+      "version": "2.0.1",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "projectId": "389665",
+      "fileId": "3175671",
+      "type": "BOTH"
+    },
+    {
+      "id": "yungsbettercavesforge",
+      "name": "YUNG's Better Caves (Forge)",
+      "version": "1.1.1",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "projectId": "340583",
+      "fileId": "3170047",
+      "type": "BOTH"
+    },
+    {
+      "id": "betterdrowning",
+      "name": "Better Drowning",
+      "version": "2.0.2",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "376809",
+      "fileId": "3170376",
+      "type": "BOTH"
+    },
+    {
+      "id": "biomesoplenty",
+      "name": "Biomes O' Plenty",
+      "version": "13.0.0.431",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Forstride",
+        "TheAdubbz"
+      ],
+      "projectId": "220318",
+      "fileId": "3181401",
+      "type": "BOTH"
+    },
+    {
+      "id": "bloodparticles",
+      "name": "Blood Particles",
+      "version": "1.0.1",
+      "mcVersion": "1.16.3+",
+      "authors": [
+        "ModdingLegacy",
+        "mcvinnyq",
+        "raptor4694",
+        "KingPhygieBoo",
+        "Lachney"
+      ],
+      "projectId": "336320",
+      "fileId": "3054045",
+      "type": "BOTH"
+    },
+    {
+      "id": "bookshelf",
+      "name": "Bookshelf",
+      "version": "10.0.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "228525",
+      "fileId": "3170154",
+      "type": "BOTH"
+    },
+    {
+      "id": "bountiful",
+      "name": "Bountiful",
+      "version": "3.3.0",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "ejektaflex",
+        "AkiShirai"
+      ],
+      "projectId": "309516",
+      "fileId": "3183049",
+      "type": "BOTH"
+    },
+    {
+      "id": "bowinfinityfix",
+      "name": "Bow Infinity Fix",
+      "version": "9.1",
+      "mcVersion": "1.16.3+",
+      "authors": [
+        "Parker8283"
+      ],
+      "projectId": "224713",
+      "fileId": "3071178",
+      "type": "BOTH"
+    },
+    {
+      "id": "buddycards",
+      "name": "Buddycards",
+      "version": "2.0.2",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "wildcard_gamer"
+      ],
+      "projectId": "425991",
+      "fileId": "3225040",
+      "type": "BOTH"
+    },
+    {
+      "id": "badwithernocookiereloaded",
+      "name": "Bad Wither No Cookie - Reloaded",
+      "version": "3.9.16",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Kreezxil"
+      ],
+      "projectId": "261251",
+      "fileId": "3101531",
+      "type": "BOTH"
+    },
+    {
+      "id": "ohthebiomesyoullgo",
+      "name": "Oh The Biomes You'll Go",
+      "version": "1.1.10",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "AOCAWOL",
+        "Corgi_Taco"
+      ],
+      "projectId": "247560",
+      "fileId": "3197729",
+      "type": "BOTH"
+    },
+    {
+      "id": "ohthebiomesyoullgo",
+      "name": "Oh The Biomes You'll Go",
+      "version": "1.1.10",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "AOCAWOL",
+        "Corgi_Taco"
+      ],
+      "projectId": "247560",
+      "fileId": "3197729",
+      "type": "BOTH"
+    },
+    {
+      "id": "champions",
+      "name": "Champions",
+      "version": "2.0.1.4",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "TheIllusiveC4"
+      ],
+      "projectId": "307152",
+      "fileId": "3217078",
+      "type": "BOTH"
+    },
+    {
+      "id": "chatheads",
+      "name": "Chat Heads",
+      "version": "0.2.0",
+      "mcVersion": "1.16.3+",
+      "authors": [
+        "dzwdz"
+      ],
+      "projectId": "407206",
+      "fileId": "3092437",
+      "type": "BOTH"
+    },
+    {
+      "id": "cherishedworldsforge",
+      "name": "Cherished Worlds (Forge)",
+      "version": "1.0.0",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "TheIllusiveC4"
+      ],
+      "projectId": "308240",
+      "fileId": "3113122",
+      "type": "CLIENT"
+    },
+    {
+      "id": "chineseworkshop",
+      "name": "ChineseWorkshop",
+      "version": "3.2.0",
+      "mcVersion": "1.16.3",
+      "authors": [
+        "cityofskytcd",
+        "Snownee_"
+      ],
+      "projectId": "291142",
+      "fileId": "3068109",
+      "type": "BOTH"
+    },
+    {
+      "id": "chiselsandbits",
+      "name": "Chisels & Bits",
+      "version": "0.2.10",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "AlgorithmX2",
+        "OrionOnline"
+      ],
+      "projectId": "231095",
+      "fileId": "3176033",
+      "type": "BOTH"
+    },
+    {
+      "id": "cleanview",
+      "name": "CleanView",
+      "version": "1a",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "LainMI"
+      ],
+      "projectId": "226889",
+      "fileId": "3188678",
+      "type": "CLIENT"
+    },
+    {
+      "id": "clothconfigapiforge",
+      "name": "Cloth Config API (Forge)",
+      "version": "4.11.14",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "shedaniel",
+        "linkieisbetterthank9"
+      ],
+      "projectId": "348521",
+      "fileId": "3210411",
+      "type": "CLIENT"
+    },
+    {
+      "id": "clumps",
+      "name": "Clumps",
+      "version": "6.0.0.17",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Jaredlll08"
+      ],
+      "projectId": "256717",
+      "fileId": "3205705",
+      "type": "BOTH"
+    },
+    {
+      "id": "collective",
+      "name": "Collective",
+      "version": "2.9",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Serilum"
+      ],
+      "projectId": "342584",
+      "fileId": "3223776",
+      "type": "BOTH"
+    },
+    {
+      "id": "cosmeticarmorreworked",
+      "name": "Cosmetic Armor Reworked",
+      "version": "1b",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "LainMI"
+      ],
+      "projectId": "237307",
+      "fileId": "3205904",
+      "type": "BOTH"
+    },
+    {
+      "id": "namepain",
+      "name": "Name Pain",
+      "version": "1.3.1",
+      "mcVersion": "1.16+",
+      "authors": [
+        "naqaden"
+      ],
+      "projectId": "366263",
+      "fileId": "3100986",
+      "type": "CLIENT"
+    },
+    {
+      "id": "create",
+      "name": "Create",
+      "version": "0.3e",
+      "mcVersion": "1.16.3+",
+      "authors": [
+        "simibubi"
+      ],
+      "projectId": "328085",
+      "fileId": "3167531",
+      "type": "BOTH"
+    },
+    {
+      "id": "creativecore",
+      "name": "CreativeCore",
+      "version": "2.1.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "CreativeMD"
+      ],
+      "projectId": "257814",
+      "fileId": "3223308",
+      "type": "BOTH"
+    },
+    {
+      "id": "damagetilt",
+      "name": "Damage Tilt",
+      "version": "0.1.1",
+      "mcVersion": "1.16",
+      "authors": [
+        "Charles445"
+      ],
+      "projectId": "411705",
+      "fileId": "3077428",
+      "type": "BOTH"
+    },
+    {
+      "id": "dangerousstonecutter",
+      "name": "Dangerous Stone Cutter",
+      "version": "1.4",
+      "mcVersion": "1.16.2",
+      "authors": [
+        "morimori0317"
+      ],
+      "projectId": "345729",
+      "fileId": "3040728",
+      "type": "BOTH"
+    },
+    {
+      "id": "decorativeblocks",
+      "name": "Decorative Blocks",
+      "version": "1.7.2",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "stohun",
+        "lilypuree"
+      ],
+      "projectId": "362528",
+      "fileId": "3166283",
+      "type": "BOTH"
+    },
+    {
+      "id": "dungeoncrawl",
+      "name": "Dungeon Crawl",
+      "version": "2.2.4",
+      "mcVersion": "1.16.3",
+      "authors": [
+        "XIROC1337"
+      ],
+      "projectId": "324973",
+      "fileId": "3160501",
+      "type": "BOTH"
+    },
+    {
+      "id": "dynamicsurroundings",
+      "name": "Dynamic Surroundings",
+      "version": "4.0.3.12",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "OreCruncher"
+      ],
+      "projectId": "238891",
+      "fileId": "3221841",
+      "type": "CLIENT"
+    },
+    {
+      "id": "dynmapforge",
+      "name": "DynmapForge",
+      "version": "3.1-beta-7",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Mikeprimm"
+      ],
+      "projectId": "59433",
+      "fileId": "3197704",
+      "type": "SERVER"
+    },
+    {
+      "id": "dynamicview",
+      "name": "Dynamic View",
+      "version": "1.9",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "someaddon"
+      ],
+      "projectId": "366140",
+      "fileId": "3217166",
+      "type": "BOTH"
+    },
+    {
+      "id": "emojiful",
+      "name": "Emojiful",
+      "version": "2.1.4",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "hrznstudio",
+        "Buuz135",
+        "The_CodedOne"
+      ],
+      "projectId": "284324",
+      "fileId": "3184796",
+      "type": "CLIENT"
+    },
+    {
+      "id": "enchantmentdescriptions",
+      "name": "Enchantment Descriptions",
+      "version": "7.0.2",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "250419",
+      "fileId": "3191059",
+      "type": "CLIENT"
+    },
+    {
+      "id": "enhancedmushrooms",
+      "name": "Enhanced Mushrooms",
+      "version": "3.0.5",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "ex0planetary",
+        "mcvinnyq"
+      ],
+      "projectId": "383725",
+      "fileId": "3224376",
+      "type": "BOTH"
+    },
+    {
+      "id": "fairylights",
+      "name": "Fairy Lights",
+      "version": "4.0.5",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "pau101"
+      ],
+      "projectId": "233342",
+      "fileId": "3216206",
+      "type": "BOTH"
+    },
+    {
+      "id": "farmersdelight",
+      "name": "Farmer's Delight",
+      "version": "0.3.2",
+      "mcVersion": "1.16.3+",
+      "authors": [
+        "vectorwing"
+      ],
+      "projectId": "398521",
+      "fileId": "3188508",
+      "type": "BOTH"
+    },
+    {
+      "id": "fishontheline",
+      "name": "Fish On The Line",
+      "version": "1.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Serilum"
+      ],
+      "projectId": "450603",
+      "fileId": "3220624",
+      "type": "BOTH"
+    },
+    {
+      "id": "fpsreducer",
+      "name": "FPS Reducer",
+      "version": "1.18",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "bre2el"
+      ],
+      "projectId": "280294",
+      "fileId": "3103648",
+      "type": "CLIENT"
+    },
+    {
+      "id": "ftbguilibrary",
+      "name": "FTB GUI Library",
+      "version": "1605.2.1.40",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "LatvianModder"
+      ],
+      "projectId": "404465",
+      "fileId": "3214262",
+      "type": "CLIENT"
+    },
+    {
+      "id": "garbagebins",
+      "name": "Garbage Bins",
+      "version": "2.0.5",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "liskoslayer63"
+      ],
+      "projectId": "286710",
+      "fileId": "3211623",
+      "type": "BOTH"
+    },
+    {
+      "id": "guiclock",
+      "name": "GUI Clock",
+      "version": "2.3",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Serilum"
+      ],
+      "projectId": "347529",
+      "fileId": "3220595",
+      "type": "CLIENT"
+    },
+    {
+      "id": "guicompass",
+      "name": "GUI Compass",
+      "version": "1.5",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Serilum"
+      ],
+      "projectId": "347595",
+      "fileId": "3220590",
+      "type": "CLIENT"
+    },
+    {
+      "id": "hwyla",
+      "name": "Hwyla",
+      "version": "1.10.11-B78",
+      "mcVersion": "1.16.2",
+      "authors": [
+        "TehNut"
+      ],
+      "projectId": "253449",
+      "fileId": "3033593",
+      "type": "BOTH"
+    },
+    {
+      "id": "inspirations",
+      "name": "Inspirations",
+      "version": "1.2.2",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "KnightMiner",
+        "Teamspen210"
+      ],
+      "projectId": "284007",
+      "fileId": "3170862",
+      "type": "BOTH"
+    },
+    {
+      "id": "ironchests",
+      "name": "Iron Chests",
+      "version": "11.2.10",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "ProgWML6",
+        "Alexbegt"
+      ],
+      "projectId": "228756",
+      "fileId": "3105315",
+      "type": "BOTH"
+    },
+    {
+      "id": "itemphysicfull",
+      "name": "ItemPhysic Full",
+      "version": "1.4.17",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "CreativeMD"
+      ],
+      "projectId": "258587",
+      "fileId": "3227325",
+      "type": "BOTH"
+    },
+    {
+      "id": "justenoughitemsjei",
+      "name": "Just Enough Items (JEI)",
+      "version": "7.6.1.171",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "mezz"
+      ],
+      "projectId": "238222",
+      "fileId": "3192904",
+      "type": "BOTH"
+    },
+    {
+      "id": "jeiintegration",
+      "name": "JEI Integration",
+      "version": "7.0.1.15",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "SnowShock35",
+        "Forge_User_01627895"
+      ],
+      "projectId": "265917",
+      "fileId": "3202331",
+      "type": "BOTH"
+    },
+    {
+      "id": "justenoughresourcesjer",
+      "name": "Just Enough Resources (JER)",
+      "version": "0.12.0.100",
+      "mcVersion": "1.16.3",
+      "authors": [
+        "way2muchnoise"
+      ],
+      "projectId": "240630",
+      "fileId": "3066754",
+      "type": "BOTH"
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "version": "3.4.1",
+      "mcVersion": "1.16.3",
+      "authors": [
+        "Snownee_"
+      ],
+      "projectId": "303657",
+      "fileId": "3103509",
+      "type": "BOTH"
+    },
+    {
+      "id": "kleeslabs",
+      "name": "KleeSlabs",
+      "version": "9.2.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "BlayTheNinth"
+      ],
+      "projectId": "241895",
+      "fileId": "3222119",
+      "type": "BOTH"
+    },
+    {
+      "id": "kotlinforforge",
+      "name": "Kotlin for Forge",
+      "version": "1.10.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "thedarkcolour"
+      ],
+      "projectId": "351264",
+      "fileId": "3218088",
+      "type": "BOTH"
+    },
+    {
+      "id": "lanterncolors",
+      "name": "Lantern Colors",
+      "version": "2.1.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "schmecky90"
+      ],
+      "projectId": "395245",
+      "fileId": "3067215",
+      "type": "BOTH"
+    },
+    {
+      "id": "lightoverlayriftforgefabric",
+      "name": "Light Overlay (Rift/Forge/Fabric)",
+      "version": "5.8.0",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "shedaniel"
+      ],
+      "projectId": "325492",
+      "fileId": "3207256",
+      "type": "CLIENT"
+    },
+    {
+      "id": "magicmirrorsforge",
+      "name": "Magic Mirrors [FORGE]",
+      "version": "2.1.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "CodenameRevy"
+      ],
+      "projectId": "342269",
+      "fileId": "3206274",
+      "type": "BOTH"
+    },
+    {
+      "id": "magicalpsiredux",
+      "name": "Magical Psi: Redux",
+      "version": "2.0.0.0",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "TheIllusiveC4",
+        "SaikoChan"
+      ],
+      "projectId": "396405",
+      "fileId": "3109917",
+      "type": "BOTH"
+    },
+    {
+      "id": "mahoutsukai",
+      "name": "Mahou Tsukai",
+      "version": "1.28.3",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "stepcros"
+      ],
+      "projectId": "342543",
+      "fileId": "3212025",
+      "type": "BOTH"
+    },
+    {
+      "id": "mantle",
+      "name": "Mantle",
+      "version": "1.6.79",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "mDiyo",
+        "ProgWML6",
+        "Alexbegt",
+        "fuj1n",
+        "KnightMiner",
+        "bonusboni",
+        "_ForgeUser16783202"
+      ],
+      "projectId": "74924",
+      "fileId": "3180804",
+      "type": "BOTH"
+    },
+    {
+      "id": "masonry",
+      "name": "Masonry",
+      "version": "0.3.6",
+      "mcVersion": "1.16+",
+      "authors": [
+        "Shadowclaimer",
+        "Vequinox",
+        "Girafi"
+      ],
+      "projectId": "310494",
+      "fileId": "3055694",
+      "type": "BOTH"
+    },
+    {
+      "id": "macawsdoors",
+      "name": "Macaw's Doors",
+      "version": "1.0.2",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "sketch_macaw"
+      ],
+      "projectId": "378646",
+      "fileId": "3182357",
+      "type": "BOTH"
+    },
+    {
+      "id": "macawsfurniture",
+      "name": "Macaw's Furniture",
+      "version": "2.0.1",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "sketch_macaw"
+      ],
+      "projectId": "359540",
+      "fileId": "3182349",
+      "type": "BOTH"
+    },
+    {
+      "id": "macawspaintings",
+      "name": "Macaw's Paintings",
+      "version": "1.0.0",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "sketch_macaw"
+      ],
+      "projectId": "438116",
+      "fileId": "3174820",
+      "type": "BOTH"
+    },
+    {
+      "id": "macawsroofs",
+      "name": "Macaw's Roofs",
+      "version": "2.0.1",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "sketch_macaw"
+      ],
+      "projectId": "352039",
+      "fileId": "3182364",
+      "type": "BOTH"
+    },
+    {
+      "id": "macawstrapdoors",
+      "name": "Macaw's Trapdoors",
+      "version": "1.0.1",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "sketch_macaw"
+      ],
+      "projectId": "400933",
+      "fileId": "3182352",
+      "type": "BOTH"
+    },
+    {
+      "id": "advancedminingdimension",
+      "name": "Advanced Mining Dimension",
+      "version": "1.0.3",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "henkelmax"
+      ],
+      "projectId": "332640",
+      "fileId": "3225980",
+      "type": "BOTH"
+    },
+    {
+      "id": "mmmmmmmmmmmm",
+      "name": "MmmMmmMmmMmm",
+      "version": "1.0.1",
+      "mcVersion": "1.16",
+      "authors": [
+        "bonusboni",
+        "luigipunch",
+        "MehVahdJukaar"
+      ],
+      "projectId": "225738",
+      "fileId": "3083395",
+      "type": "BOTH"
+    },
+    {
+      "id": "modernui",
+      "name": "Modern UI",
+      "version": "2.4.5.80",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "BloCamLimb"
+      ],
+      "projectId": "352491",
+      "fileId": "3207089",
+      "type": "CLIENT"
+    },
+    {
+      "id": "mousetweaks",
+      "name": "Mouse Tweaks",
+      "version": "2.14",
+      "mcVersion": "1.16.2+",
+      "authors": [
+        "YaLTeR"
+      ],
+      "projectId": "60089",
+      "fileId": "3202662",
+      "type": "CLIENT"
+    },
+    {
+      "id": "mybrightness",
+      "name": "MyBrightness",
+      "version": "03",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Lordwissend"
+      ],
+      "projectId": "323073",
+      "fileId": "3211767",
+      "type": "CLIENT"
+    },
+    {
+      "id": "naturescompass",
+      "name": "Nature's Compass",
+      "version": "1.8.6",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Chaosyr"
+      ],
+      "projectId": "252848",
+      "fileId": "3191661",
+      "type": "BOTH"
+    },
+    {
+      "id": "northerncompass",
+      "name": "Northern Compass",
+      "version": "1.0.4",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "LX_Gaming"
+      ],
+      "projectId": "352301",
+      "fileId": "3172184",
+      "type": "BOTH"
+    },
+    {
+      "id": "patchouli",
+      "name": "Patchouli",
+      "version": "50",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Vazkii",
+        "williewillus"
+      ],
+      "projectId": "306770",
+      "fileId": "3204037",
+      "type": "BOTH"
+    },
+    {
+      "id": "perspectivemodredux",
+      "name": "Perspective Mod Redux",
+      "version": "0.0.5",
+      "mcVersion": "1.16.2+",
+      "authors": [
+        "Cynosphere"
+      ],
+      "projectId": "280647",
+      "fileId": "3115970",
+      "type": "CLIENT"
+    },
+    {
+      "id": "pickupnotifier",
+      "name": "Pick Up Notifier",
+      "version": "1.2",
+      "mcVersion": "1.16.3",
+      "authors": [
+        "Fuzs_"
+      ],
+      "projectId": "351441",
+      "fileId": "3066596",
+      "type": "CLIENT"
+    },
+    {
+      "id": "polymorphforge",
+      "name": "Polymorph (Forge)",
+      "version": "0.24",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "TheIllusiveC4"
+      ],
+      "projectId": "388800",
+      "fileId": "3187811",
+      "type": "BOTH"
+    },
+    {
+      "id": "psi",
+      "name": "Psi",
+      "version": "91",
+      "mcVersion": "1.16",
+      "authors": [
+        "Vazkii",
+        "kamefrede123",
+        "wiresegal"
+      ],
+      "projectId": "241665",
+      "fileId": "3180062",
+      "type": "BOTH"
+    },
+    {
+      "id": "quark",
+      "name": "Quark",
+      "version": "2.4-308",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Vazkii",
+        "mcvinnyq",
+        "wiresegal"
+      ],
+      "projectId": "243121",
+      "fileId": "3221260",
+      "type": "BOTH"
+    },
+    {
+      "id": "randompatchesforge",
+      "name": "RandomPatches (Forge)",
+      "version": "2.4.4",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "TheRandomLabs"
+      ],
+      "projectId": "285612",
+      "fileId": "3211323",
+      "type": "BOTH"
+    },
+    {
+      "id": "repurposedstructuresforge",
+      "name": "Repurposed Structures (Forge)",
+      "version": "2.4.7",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "telepathicgrunt",
+        "cannon_foddr",
+        "andrew0030",
+        "miguelforge"
+      ],
+      "projectId": "368293",
+      "fileId": "3227337",
+      "type": "BOTH"
+    },
+    {
+      "id": "runelic",
+      "name": "Runelic",
+      "version": "1.0.2",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "393149",
+      "fileId": "3191218",
+      "type": "BOTH"
+    },
+    {
+      "id": "savemystrongholdforge",
+      "name": "Save My Stronghold! (Forge)",
+      "version": "1.0",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "projectId": "355248",
+      "fileId": "3188216",
+      "type": "BOTH"
+    },
+    {
+      "id": "sereneseasons",
+      "name": "Serene Seasons",
+      "version": "4.0.1.91",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "TheAdubbz",
+        "Forstride"
+      ],
+      "projectId": "291874",
+      "fileId": "3202233",
+      "type": "BOTH"
+    },
+    {
+      "id": "servertabinfo",
+      "name": "Server Tab Info",
+      "version": "1.3.3",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "black_dog20"
+      ],
+      "projectId": "291788",
+      "fileId": "3118698",
+      "type": "BOTH"
+    },
+    {
+      "id": "shulkertooltip",
+      "name": "Shulker Tooltip",
+      "version": "1.9.7",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "ZephaniahNoah"
+      ],
+      "projectId": "292899",
+      "fileId": "3210062",
+      "type": "BOTH"
+    },
+    {
+      "id": "simplytea",
+      "name": "Simply Tea!",
+      "version": "2.3.4",
+      "mcVersion": "1.16+",
+      "authors": [
+        "EpicSquid315",
+        "KnightMiner",
+        "elucent_"
+      ],
+      "projectId": "268373",
+      "fileId": "3187134",
+      "type": "BOTH"
+    },
+    {
+      "id": "farmerstea",
+      "name": "Farmer's Tea",
+      "version": "1.0.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "beautiful_developer"
+      ],
+      "projectId": "450265",
+      "fileId": "3215315",
+      "type": "BOTH"
+    },
+    {
+      "id": "sit",
+      "name": "Sit",
+      "version": "1.3",
+      "mcVersion": "1.16.2+",
+      "authors": [
+        "bl4ckscor3"
+      ],
+      "projectId": "278717",
+      "fileId": "3031381",
+      "type": "BOTH"
+    },
+    {
+      "id": "jeiprofessions",
+      "name": "JEI Professions",
+      "version": "1.0.0",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "pau101"
+      ],
+      "projectId": "403499",
+      "fileId": "3163628",
+      "type": "BOTH"
+    },
+    {
+      "id": "snowrealmagic",
+      "name": "☃ Snow! Real Magic!",
+      "version": "2.3.2",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Snownee_"
+      ],
+      "projectId": "308663",
+      "fileId": "3197821",
+      "type": "BOTH"
+    },
+    {
+      "id": "snowundertrees",
+      "name": "Snow Under Trees",
+      "version": "1.1.3",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "bl4ckscor3"
+      ],
+      "projectId": "353942",
+      "fileId": "3152350",
+      "type": "BOTH"
+    },
+    {
+      "id": "spawnerbugfix",
+      "name": "Spawner Bug Fix",
+      "version": "1.0.0.2",
+      "mcVersion": "1.16.2",
+      "authors": [
+        "MacTso",
+        "lupicus"
+      ],
+      "projectId": "399022",
+      "fileId": "3161147",
+      "type": "BOTH"
+    },
+    {
+      "id": "subterraneanwilderness",
+      "name": "Subterranean Wilderness",
+      "version": "1.1.2",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Melonslise",
+        "Paint_Ninja"
+      ],
+      "projectId": "413426",
+      "fileId": "3178364",
+      "type": "BOTH"
+    },
+    {
+      "id": "swingthroughgrass",
+      "name": "SwingThroughGrass",
+      "version": "1.5.3",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "exidex"
+      ],
+      "projectId": "264353",
+      "fileId": "3103028",
+      "type": "BOTH"
+    },
+    {
+      "id": "terraforged",
+      "name": "TerraForged",
+      "version": "0.2.9",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "dags_",
+        "won_ton_"
+      ],
+      "projectId": "363820",
+      "fileId": "3224185",
+      "type": "BOTH"
+    },
+    {
+      "id": "thutcore",
+      "name": "ThutCore",
+      "version": "8.2.0",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Thutmose_III"
+      ],
+      "projectId": "224428",
+      "fileId": "3208594",
+      "type": "BOTH"
+    },
+    {
+      "id": "thutselevators",
+      "name": "Thut's Elevators",
+      "version": "9.1.2",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Thutmose_III"
+      ],
+      "projectId": "224375",
+      "fileId": "3208600",
+      "type": "BOTH"
+    },
+    {
+      "id": "travellersmap",
+      "name": "Travellers Map",
+      "version": "0.7.6",
+      "mcVersion": "1.16+",
+      "authors": [
+        "JTK222"
+      ],
+      "projectId": "360748",
+      "fileId": "3208318",
+      "type": "BOTH"
+    },
+    {
+      "id": "traversereforged",
+      "name": "Traverse Reforged",
+      "version": "0.4.3.8",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Noobanidus",
+        "NeusFear",
+        "EpicSquid315",
+        "HeckinChloe",
+        "ProspectorDev"
+      ],
+      "projectId": "267769",
+      "fileId": "3157857",
+      "type": "BOTH"
+    },
+    {
+      "id": "underwaterenchanting",
+      "name": "Underwater Enchanting",
+      "version": "1.3",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Serilum"
+      ],
+      "projectId": "348758",
+      "fileId": "3219238",
+      "type": "BOTH"
+    },
+    {
+      "id": "upgradeaquatic",
+      "name": "Upgrade Aquatic",
+      "version": "3.0.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "mcvinnyq",
+        "paradiscal",
+        "SnakeBlock1",
+        "PricelessKoala",
+        "SmellyModder",
+        "minecraftabnormals",
+        "bageldotjpg"
+      ],
+      "projectId": "326895",
+      "fileId": "3171113",
+      "type": "BOTH"
+    },
+    {
+      "id": "valhelsiastructures",
+      "name": "Valhelsia Structures",
+      "version": "16.0.5",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "mcvinnyq",
+        "Khytwel",
+        "StalDev",
+        "Vaelzan"
+      ],
+      "projectId": "347488",
+      "fileId": "3089925",
+      "type": "BOTH"
+    },
+    {
+      "id": "simplevoicechat",
+      "name": "Simple Voice Chat",
+      "version": "1.0.10",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "henkelmax"
+      ],
+      "projectId": "416089",
+      "fileId": "3226316",
+      "type": "BOTH"
+    },
+    {
+      "id": "voyage",
+      "name": "Voyage",
+      "version": "1.0.3",
+      "mcVersion": "1.16.4",
+      "authors": [
+        "Lykrast"
+      ],
+      "projectId": "332943",
+      "fileId": "3148743",
+      "type": "BOTH"
+    },
+    {
+      "id": "wawlawhatarewelookingat",
+      "name": "Wawla - What Are We Looking At",
+      "version": "8.0.1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "DarkhaxDev"
+      ],
+      "projectId": "224712",
+      "fileId": "3189215",
+      "type": "BOTH"
+    },
+    {
+      "id": "windowlogging",
+      "name": "Windowlogging",
+      "version": "0.0.2",
+      "mcVersion": "1.16.3",
+      "authors": [
+        "mc_Grimmauld",
+        "simibubi"
+      ],
+      "projectId": "408759",
+      "fileId": "3060777",
+      "type": "BOTH"
+    },
+    {
+      "id": "worldpregenerator",
+      "name": "World Pre Generator",
+      "version": "1.0.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "GeheimagentNr1"
+      ],
+      "projectId": "388157",
+      "fileId": "3171506",
+      "type": "SERVER"
+    },
+    {
+      "id": "yungsapiforge",
+      "name": "YUNG's API (Forge)",
+      "version": "Forge-4",
+      "mcVersion": "1.16.4+",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "projectId": "421850",
+      "fileId": "3186128",
+      "type": "BOTH"
+    },
+    {
+      "id": "morpheus",
+      "name": "Morpheus",
+      "version": "4.2.70",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "Quetzi"
+      ],
+      "projectId": "69118",
+      "fileId": "3215383",
+      "type": "SERVER"
+    }
+  ]
+}
