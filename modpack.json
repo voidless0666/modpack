@@ -9,6 +9,7 @@
   "description": "Voidless's Modpack based around the mod 'create' for forge 1.16.5",
   "url": "https://github.com/voidless0666/Modpack/edit/main/modpack.json",
   "iconUrl": "https://github.com/voidless0666/Modpack/blob/main/icon.png",
+  "animatedIconUrl": "https://github.com/voidless0666/Modpack/blob/main/icon.gif",
   "type": "FORGE",
   "mods": [
     {
