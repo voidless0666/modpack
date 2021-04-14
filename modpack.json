@@ -546,13 +546,13 @@
     {
       "id": "enchantmentdescriptions",
       "name": "Enchantment Descriptions",
-      "version": "7.0.3",
+      "version": "7.0.7",
       "mcVersion": "1.16.5",
       "authors": [
         "DarkhaxDev"
       ],
       "projectId": "250419",
-      "fileId": "3198902",
+      "fileId": "3276267",
       "type": "CLIENT"
     },
     {
