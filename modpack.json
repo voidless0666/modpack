@@ -99,14 +99,14 @@
     {
       "id": "architecturyapiforge",
       "name": "Architectury API (Forge)",
-      "version": "1.10.139",
-      "mcVersion": "1.16.4+",
+      "version": "1.10.142",
+      "mcVersion": "1.16.5",
       "authors": [
         "shedaniel",
         "MaxNeedsSnacks"
       ],
       "projectId": "419699",
-      "fileId": "3254875",
+      "fileId": "3274712",
       "type": "BOTH"
     },
     {
@@ -251,13 +251,13 @@
     {
       "id": "buddycards",
       "name": "Buddycards",
-      "version": "2.0.2",
+      "version": "2.2.3",
       "mcVersion": "1.16.5",
       "authors": [
         "wildcard_gamer"
       ],
       "projectId": "425991",
-      "fileId": "3225040",
+      "fileId": "3275787",
       "type": "BOTH"
     },
     {
@@ -375,13 +375,13 @@
     {
       "id": "clumps",
       "name": "Clumps",
-      "version": "6.0.0.18",
+      "version": "6.0.0.21",
       "mcVersion": "1.16.5",
       "authors": [
         "Jaredlll08"
       ],
       "projectId": "256717",
-      "fileId": "3271507",
+      "fileId": "3275832",
       "type": "BOTH"
     },
     {
@@ -839,13 +839,13 @@
     {
       "id": "mahoutsukai",
       "name": "Mahou Tsukai",
-      "version": "1.29.1",
+      "version": "1.29.2",
       "mcVersion": "1.16.5",
       "authors": [
         "stepcros"
       ],
       "projectId": "342543",
-      "fileId": "3272862",
+      "fileId": "3275353",
       "type": "BOTH"
     },
     {
@@ -1244,13 +1244,13 @@
     {
       "id": "snowrealmagic",
       "name": "☃ Snow! Real Magic!",
-      "version": "2.5.4",
-      "mcVersion": "1.16.5",
+      "version": "2.5.5",
+      "mcVersion": "1.16.4+",
       "authors": [
         "Snownee_"
       ],
       "projectId": "308663",
-      "fileId": "3272612",
+      "fileId": "3275696",
       "type": "BOTH"
     },
     {
@@ -1663,6 +1663,30 @@
       "projectId": "403303",
       "fileId": "3234199",
       "type": "BOTH"
+    },
+    {
+      "id": "limited_chunkloading",
+      "name": "Limited Chunkloading",
+      "version": "1.10",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "someaddon"
+      ],
+      "projectId": "456640",
+      "fileId": "3269314",
+      "type": "SERVER"
+    },
+    {
+      "id": "double_slabs",
+      "name": "Double Slabs",
+      "version": "3.5.0rc1",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "CJMinecraft01"
+      ],
+      "projectId": "350179",
+      "fileId": "350179",
+      "type": "SERVER"
     }
   ]
 }
