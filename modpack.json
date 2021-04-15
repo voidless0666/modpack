@@ -14,7 +14,8 @@
   "optifine": {
     "version": "1.16.5",
     "target": "G7",
-    "prerelease": false
+    "prerelease": false,
+    "targetOnly": false
   },
   "mods": [
     {
@@ -839,13 +840,13 @@
     {
       "id": "mahoutsukai",
       "name": "Mahou Tsukai",
-      "version": "1.29.2",
+      "version": "1.29.3",
       "mcVersion": "1.16.5",
       "authors": [
         "stepcros"
       ],
       "projectId": "342543",
-      "fileId": "3275353",
+      "fileId": "3277829",
       "type": "BOTH"
     },
     {
