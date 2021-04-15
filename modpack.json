@@ -1686,8 +1686,50 @@
         "CJMinecraft01"
       ],
       "projectId": "350179",
-      "fileId": "350179",
-      "type": "SERVER"
+      "fileId": "3274847",
+      "type": "BOTH"
+    },
+    {
+      "id": "abundance",
+      "name": "Abundance",
+      "version": "1.0.5",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "ex0planetary",
+        "Audak0",
+        "Shock_Micro",
+        "team_aurora_modding"
+      ],
+      "projectId": "452345",
+      "fileId": "3250108",
+      "type": "BOTH"
+    },
+    {
+      "id": "bayou_blues",
+      "name": "Bayou Blues",
+      "version": "1.0.4",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "ex0planetary",
+        "Audak0",
+        "Shock_Micro",
+        "team_aurora_modding"
+      ],
+      "projectId": "452344",
+      "fileId": "3250109",
+      "type": "BOTH"
+    },
+    {
+      "id": "biome_border_viewer",
+      "name": "Biome Border Viewer",
+      "version": "8.0.0.0",
+      "mcVersion": "1.16.5",
+      "authors": [
+        "mrp_v2"
+      ],
+      "projectId": "297363",
+      "fileId": "3210591",
+      "type": "CLIENT"
     }
   ]
 }
