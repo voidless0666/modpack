@@ -100,14 +100,14 @@
     {
       "id": "architecturyapiforge",
       "name": "Architectury API (Forge)",
-      "version": "1.10.142",
+      "version": "1.11.144",
       "mcVersion": "1.16.5",
       "authors": [
         "shedaniel",
         "MaxNeedsSnacks"
       ],
       "projectId": "419699",
-      "fileId": "3274712",
+      "fileId": "3277936",
       "type": "BOTH"
     },
     {
@@ -424,13 +424,13 @@
     {
       "id": "create",
       "name": "Create",
-      "version": "0.3.1b",
+      "version": "0.3.1c",
       "mcVersion": "1.16.4+",
       "authors": [
         "simibubi"
       ],
       "projectId": "328085",
-      "fileId": "3271972",
+      "fileId": "3278516",
       "type": "BOTH"
     },
     {
@@ -542,7 +542,8 @@
       ],
       "projectId": "284324",
       "fileId": "3184796",
-      "type": "CLIENT"
+      "type": "CLIENT",
+      "disable": true
     },
     {
       "id": "enchantmentdescriptions",
@@ -840,13 +841,13 @@
     {
       "id": "mahoutsukai",
       "name": "Mahou Tsukai",
-      "version": "1.29.3",
+      "version": "1.29.5",
       "mcVersion": "1.16.5",
       "authors": [
         "stepcros"
       ],
       "projectId": "342543",
-      "fileId": "3277829",
+      "fileId": "3278931",
       "type": "BOTH"
     },
     {
@@ -970,13 +971,13 @@
     {
       "id": "modernui",
       "name": "Modern UI",
-      "version": "2.4.9.84",
+      "version": "2.5.0.85",
       "mcVersion": "1.16.5",
       "authors": [
         "BloCamLimb"
       ],
       "projectId": "352491",
-      "fileId": "3249737",
+      "fileId": "3278865",
       "type": "CLIENT"
     },
     {
