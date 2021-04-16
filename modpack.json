@@ -543,7 +543,7 @@
       "projectId": "284324",
       "fileId": "3184796",
       "type": "CLIENT",
-      "disable": true
+      "disabled": true
     },
     {
       "id": "enchantmentdescriptions",
