@@ -17,6 +17,7 @@
     "prerelease": false,
     "targetOnly": false
   },
+  "minimumVersionRequired": "0.2.4",
   "mods": [
     {
       "id": "terraforged",
@@ -52,9 +53,7 @@
       "name": "Sound Filters",
       "version": "0.4",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Tmtravlr"
-      ],
+      "author": "Tmtravlr",
       "projectId": "222789",
       "fileId": "3039955",
       "type": "CLIENT"
@@ -94,9 +93,7 @@
       "name": "Dynamic Surroundings",
       "version": "4.0.4.2",
       "mcVersion": "1.16.4",
-      "authors": [
-        "OreCruncher"
-      ],
+      "author": "OreCruncher",
       "projectId": "238891",
       "fileId": "3288746",
       "type": "BOTH"
@@ -107,9 +104,7 @@
       "name": "Better Foliage",
       "version": "2.6.5",
       "mcVersion": "1.16.5",
-      "authors": [
-        "octarine_noise"
-      ],
+      "author": "octarine_noise",
       "projectId": "228529",
       "fileId": "3335091",
       "type": "CLIENT"
@@ -135,9 +130,7 @@
       "name": "Kotlin for Forge",
       "version": "1.12.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "thedarkcolour"
-      ],
+      "author": "thedarkcolour",
       "projectId": "351264",
       "fileId": "3331341",
       "type": "CLIENT"
@@ -148,9 +141,7 @@
       "name": "Double Slabs",
       "version": "3.5.0",
       "mcVersion": "1.16+",
-      "authors": [
-        "CJMinecraft01"
-      ],
+      "author": "CJMinecraft01",
       "projectId": "350179",
       "fileId": "3299607",
       "type": "BOTH"
@@ -189,9 +180,7 @@
       "name": "Spiders 2.0",
       "version": "1.0.4",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "TheCyberBrick"
-      ],
+      "author": "TheCyberBrick",
       "projectId": "410497",
       "fileId": "3103152",
       "type": "BOTH"
@@ -220,9 +209,7 @@
       "name": "YUNG's Better Caves (Forge)",
       "version": "1.1.2",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "YUNGNICKYOUNG"
-      ],
+      "author": "YUNGNICKYOUNG",
       "projectId": "340583",
       "fileId": "3307879",
       "type": "BOTH"
@@ -311,9 +298,7 @@
       "name": "Simple Farming",
       "version": "1.3.7",
       "mcVersion": "1.16.5",
-      "authors": [
-        "enemeez1"
-      ],
+      "author": "enemeez1",
       "projectId": "327554",
       "fileId": "3339467",
       "type": "BOTH"
@@ -324,9 +309,7 @@
       "name": "Dynamic View",
       "version": "1.9",
       "mcVersion": "1.16.5",
-      "authors": [
-        "someaddon"
-      ],
+      author": "someaddon",
       "projectId": "366140",
       "fileId": "3217166",
       "type": "SERVER"
@@ -337,9 +320,7 @@
       "name": "Limited Chunkloading",
       "version": "1.10",
       "mcVersion": "1.16.5",
-      "authors": [
-        "someaddon"
-      ],
+      "author": "someaddon",
       "projectId": "456640",
       "fileId": "3269314",
       "type": "SERVER"
@@ -364,9 +345,7 @@
       "name": "Nature's Compass",
       "version": "1.9.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Chaosyr"
-      ],
+      "author": "Chaosyr",
       "projectId": "252848",
       "fileId": "3335874",
       "type": "BOTH"
@@ -377,9 +356,7 @@
       "name": "Thatched",
       "version": "0.4",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "lilypuree"
-      ],
+      "author": "lilypuree",
       "projectId": "403202",
       "fileId": "3209690",
       "type": "BOTH"
@@ -404,9 +381,7 @@
       "name": "Create",
       "version": "0.3.1c",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "simibubi"
-      ],
+      "author": "simibubi",
       "projectId": "328085",
       "fileId": "3278516",
       "type": "BOTH"
@@ -417,9 +392,7 @@
       "name": "Snow Under Trees",
       "version": "1.1.4",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "bl4ckscor3"
-      ],
+      "author": "bl4ckscor3",
       "projectId": "353942",
       "fileId": "3247710",
       "type": "BOTH"
@@ -473,9 +446,7 @@
       "name": "YUNG's API (Forge)",
       "version": "Forge-6",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "YUNGNICKYOUNG"
-      ],
+      "author": "YUNGNICKYOUNG",
       "projectId": "421850",
       "fileId": "3261121",
       "type": "BOTH"
@@ -486,9 +457,7 @@
       "name": "YUNG's Better Mineshafts (Forge)",
       "version": "2.0.3",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "YUNGNICKYOUNG"
-      ],
+      "author": "YUNGNICKYOUNG",
       "projectId": "389665",
       "fileId": "3245380",
       "type": "BOTH"
@@ -514,9 +483,7 @@
       "name": "AttributeFix",
       "version": "10.1.2",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "280510",
       "fileId": "3232225",
       "type": "BOTH"
@@ -527,9 +494,7 @@
       "name": "Performant",
       "version": "3.66",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "someaddon"
-      ],
+      "author": "someaddon",
       "projectId": "354143",
       "fileId": "3337394",
       "type": "BOTH"
@@ -540,9 +505,7 @@
       "name": "Entity Culling",
       "version": "2.1.6",
       "mcVersion": "1.16.5",
-      "authors": [
-        "meldexun"
-      ],
+      "author": "meldexun",
       "projectId": "409087",
       "fileId": "3328602",
       "type": "CLIENT"
@@ -597,9 +560,7 @@
       "name": "Chocolate Fix",
       "version": "1.3.0",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "AlcatrazEscapee"
-      ],
+      "author": "AlcatrazEscapee",
       "projectId": "416306",
       "fileId": "3166929",
       "type": "BOTH"
@@ -610,9 +571,7 @@
       "name": "FancyMenu [Forge]",
       "version": "2.0.7",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "Keksuccino"
-      ],
+      "author": "Keksuccino",
       "projectId": "367706",
       "fileId": "3314411",
       "type": "CLIENT"
@@ -623,9 +582,7 @@
       "name": "Konkrete [Forge]",
       "version": "1.1.6",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "Keksuccino"
-      ],
+      "author": "Keksuccino",
       "projectId": "410295",
       "fileId": "3279152",
       "type": "CLIENT"
@@ -636,9 +593,7 @@
       "name": "Tips",
       "version": "4.0.7",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "306549",
       "fileId": "3224747",
       "type": "CLIENT"
@@ -649,9 +604,7 @@
       "name": "Modern UI",
       "version": "2.5.1.86",
       "mcVersion": "1.16.5",
-      "authors": [
-        "BloCamLimb"
-      ],
+      "author": "BloCamLimb",
       "projectId": "352491",
       "fileId": "3308104",
       "type": "BOTH",
@@ -721,9 +674,7 @@
       "name": "Sound Filters",
       "version": "0.14",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "Tmtravlr"
-      ],
+      "author": "Tmtravlr",
       "projectId": "222789",
       "fileId": "3039955",
       "type": "BOTH"
@@ -734,9 +685,7 @@
       "name": "Macaw's Doors",
       "version": "1.0.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "sketch_macaw"
-      ],
+      "author": "sketch_macaw",
       "projectId": "378646",
       "fileId": "3340793",
       "type": "BOTH"
@@ -747,9 +696,7 @@
       "name": "Macaw's Roofs",
       "version": "2.0.1",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "sketch_macaw"
-      ],
+      "author": "sketch_macaw",
       "projectId": "352039",
       "fileId": "3182364",
       "type": "BOTH"
@@ -760,9 +707,7 @@
       "name": "Macaw's Furniture",
       "version": "2.0.1",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "sketch_macaw"
-      ],
+      "author": "sketch_macaw",
       "projectId": "359540",
       "fileId": "3182349",
       "type": "BOTH"
@@ -773,9 +718,7 @@
       "name": "Macaw's Trapdoors",
       "version": "1.0.2",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "sketch_macaw"
-      ],
+      "author": "sketch_macaw",
       "projectId": "400933",
       "fileId": "3273512",
       "type": "BOTH"
@@ -817,9 +760,7 @@
       "name": "Dynamic Trees - Traverse",
       "version": "2.2.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "HarleyOConnor"
-      ],
+      "author": "HarleyOConnor",
       "projectId": "407056",
       "fileId": "3330267",
       "type": "BOTH"
@@ -830,9 +771,7 @@
       "name": "Dynamic Trees - Quark",
       "version": "2.0.4",
       "mcVersion": "1.16.5",
-      "authors": [
-        "supermassimo0310"
-      ],
+      "author": "supermassimo0310",
       "projectId": "386753",
       "fileId": "3331311",
       "type": "BOTH"
@@ -859,9 +798,7 @@
       "name": "Chat Heads",
       "version": "0.2.0",
       "mcVersion": "1.16.3+",
-      "authors": [
-        "dzwdz"
-      ],
+      "author": "dzwdz",
       "projectId": "407206",
       "fileId": "3092437",
       "type": "CLIENT"
@@ -1092,9 +1029,7 @@
       "name": "Cosmetic Armor Reworked",
       "version": "3a",
       "mcVersion": "1.16.5",
-      "authors": [
-        "LainMI"
-      ],
+      "author": "LainMI",
       "projectId": "237307",
       "fileId": "3342430",
       "type": "BOTH"
@@ -1105,9 +1040,7 @@
       "name": "ItemPhysic Full",
       "version": "1.4.18",
       "mcVersion": "1.16.5",
-      "authors": [
-        "CreativeMD"
-      ],
+      "author": "CreativeMD",
       "projectId": "258587",
       "fileId": "3285731",
       "type": "BOTH"
@@ -1118,9 +1051,7 @@
       "name": "CreativeCore",
       "version": "2.2.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "CreativeMD"
-      ],
+      "author": "CreativeMD",
       "projectId": "257814",
       "fileId": "3338971",
       "type": "BOTH"
@@ -1131,9 +1062,7 @@
       "name": "Additional Banners",
       "version": "6.0.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "230137",
       "fileId": "3279597",
       "type": "BOTH"
@@ -1144,9 +1073,7 @@
       "name": "Farmer's Tea",
       "version": "1.2",
       "mcVersion": "1.16.5",
-      "authors": [
-        "beautiful_developer"
-      ],
+      "author": "beautiful_developer",
       "projectId": "450265",
       "fileId": "3255558",
       "type": "BOTH"
@@ -1157,9 +1084,7 @@
       "name": "RandomPatches (Forge)",
       "version": "2.4.4",
       "mcVersion": "1.16.5",
-      "authors": [
-        "TheRandomLabs"
-      ],
+      "author": "TheRandomLabs",
       "projectId": "285612",
       "fileId": "3211323",
       "type": "BOTH"
@@ -1199,9 +1124,7 @@
       "name": "Campful",
       "version": "3.1.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "lumpazl"
-      ],
+      "author": "lumpazl",
       "projectId": "429901",
       "fileId": "3230821",
       "type": "BOTH"
@@ -1212,9 +1135,7 @@
       "name": "Farmer's Delight Compats",
       "version": "1.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "beautiful_developer"
-      ],
+      "author": "beautiful_developer",
       "projectId": "455519",
       "fileId": "3235962",
       "type": "BOTH"
@@ -1239,9 +1160,7 @@
       "name": "Bamboo Everything (Forge)",
       "version": "1.0.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Gaz_"
-      ],
+      "author": "Gaz_",
       "projectId": "331723",
       "fileId": "3271749",
       "type": "BOTH"
@@ -1252,9 +1171,7 @@
       "name": "Enhanced Celestials - Blood Moons & Harvest Moons",
       "version": "1.0.4",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Corgi_Taco"
-      ],
+      "author": "Corgi_Taco",
       "projectId": "438447",
       "fileId": "3276137",
       "type": "BOTH"
@@ -1265,9 +1182,7 @@
       "name": "Sit",
       "version": "1.3.1",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "bl4ckscor3"
-      ],
+      "author": "bl4ckscor3",
       "projectId": "278717",
       "fileId": "3235524",
       "type": "BOTH"
@@ -1294,9 +1209,7 @@
       "name": "More Crafting Tables for Forge!",
       "version": "1.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "852duartepls"
-      ],
+      "author": "852duartepls",
       "projectId": "417365",
       "fileId": "3171579",
       "type": "BOTH"
@@ -1322,9 +1235,7 @@
       "name": "Betterlands",
       "version": "0.5.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Sajevius"
-      ],
+      "author": "Sajevius",
       "projectId": "482870",
       "fileId": "3311357",
       "type": "BOTH"
@@ -1380,9 +1291,7 @@
       "name": "Nature Expansion",
       "version": "1.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Ddx11__"
-      ],
+      "author": "Ddx11__",
       "projectId": "481562",
       "fileId": "3307308",
       "type": "BOTH"
@@ -1393,9 +1302,7 @@
       "name": "Towers Of The Wild",
       "version": "2.0.1",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "idrae_"
-      ],
+      "author": "idrae_",
       "projectId": "386415",
       "fileId": "3103750",
       "type": "BOTH"
@@ -1406,9 +1313,7 @@
       "name": "Game Menu Mod Option",
       "version": "0.2.10",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "morimori0317"
-      ],
+      "author": "morimori0317",
       "projectId": "353051",
       "fileId": "3273863",
       "type": "CLIENT"
@@ -1465,9 +1370,7 @@
       "name": "Stoneholm, Underground Villages (Forge)",
       "version": "1.2.2",
       "mcVersion": "1.16.5",
-      "authors": [
-        "TheGrimsey"
-      ],
+      "author": "TheGrimsey",
       "projectId": "461822",
       "fileId": "3337788",
       "type": "BOTH"
@@ -1478,9 +1381,7 @@
       "name": "Torch Slabs Mod",
       "version": "1.6.19",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "EndlesNights"
-      ],
+      "author": "EndlesNights",
       "projectId": "355649",
       "fileId": "3294191",
       "type": "BOTH"
@@ -1491,9 +1392,7 @@
       "name": "Terra Incognita: The Unknown Land",
       "version": "1.7",
       "mcVersion": "1.16.3+",
-      "authors": [
-        "azmalent"
-      ],
+      "author": "azmalent",
       "projectId": "435386",
       "fileId": "3325574",
       "type": "BOTH"
@@ -1519,9 +1418,7 @@
       "name": "Citadel",
       "version": "1.7.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "alex1the1666"
-      ],
+      "author": "alex1the1666",
       "projectId": "331936",
       "fileId": "3346836",
       "type": "BOTH"
@@ -1569,9 +1466,7 @@
       "name": "Farmer's Delight",
       "version": "0.4.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "vectorwing"
-      ],
+      "author": "vectorwing",
       "projectId": "398521",
       "fileId": "3310983",
       "type": "BOTH"
@@ -1582,9 +1477,7 @@
       "name": "Inventory HUD+",
       "version": "3.3.0",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "dmitrylovin"
-      ],
+      "author": "dmitrylovin",
       "projectId": "357540",
       "fileId": "3296748",
       "type": "CLIENT"
@@ -1595,9 +1488,7 @@
       "name": "Enchantment Descriptions",
       "version": "7.0.8",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "250419",
       "fileId": "3285665",
       "type": "CLIENT"
@@ -1608,9 +1499,7 @@
       "name": "Coins JE",
       "version": "6.0.2",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "377056",
       "fileId": "3185271",
       "type": "BOTH"
@@ -1621,9 +1510,7 @@
       "name": "Bookshelf",
       "version": "10.1.11",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "228525",
       "fileId": "3325826",
       "type": "BOTH"
@@ -1634,9 +1521,7 @@
       "name": "Back Tools",
       "version": "10.1.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "ohaiiChun"
-      ],
+      "author": "ohaiiChun",
       "projectId": "229061",
       "fileId": "3224955",
       "type": "CLIENT"
@@ -1647,9 +1532,7 @@
       "name": "iChunUtil",
       "version": "10.4.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "ohaiiChun"
-      ],
+      "author": "ohaiiChun",
       "projectId": "229060",
       "fileId": "3346209",
       "type": "CLIENT"
@@ -1660,9 +1543,7 @@
       "name": "Mouse Tweaks",
       "version": "0.2.10",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "YaLTeR"
-      ],
+      "author": "YaLTeR",
       "projectId": "60089",
       "fileId": "3202662",
       "type": "CLIENT"
@@ -1687,9 +1568,7 @@
       "name": "Enchanted Book Redesign",
       "version": "3.3",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "tfarecnim"
-      ],
+      "author": "tfarecnim",
       "projectId": "348076",
       "fileId": "3239927",
       "type": "CLIENT"
@@ -1700,9 +1579,7 @@
       "name": "Runelic",
       "version": "7.0.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "393149",
       "fileId": "3185428",
       "type": "BOTH"
@@ -1713,9 +1590,7 @@
       "name": "AppleSkin",
       "version": "1.0.14",
       "mcVersion": "1.16.2+",
-      "authors": [
-        "squeek502"
-      ],
+      "author": "squeek502",
       "projectId": "248787",
       "fileId": "3035787",
       "type": "BOTH"
@@ -1740,9 +1615,7 @@
       "name": "Server Tab Info",
       "version": "1.3.3",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "black_dog20"
-      ],
+      "author": "black_dog20",
       "projectId": "291788",
       "fileId": "3118698",
       "type": "BOTH"
@@ -1753,9 +1626,7 @@
       "name": "Ding",
       "version": "1.3.0",
       "mcVersion": "1.16.5",
-      "authors": [
-        "ohaiiChun"
-      ],
+      "author": "ohaiiChun",
       "projectId": "231275",
       "fileId": "3222705",
       "type": "CLIENT"
@@ -1766,9 +1637,7 @@
       "name": "Akashic Tome",
       "version": "1.4-16",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Vazkii"
-      ],
+      "author": "Vazkii",
       "projectId": "250577",
       "fileId": "3190372",
       "type": "BOTH"
@@ -1779,9 +1648,7 @@
       "name": "AutoRegLib",
       "version": "1.6-49",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Vazkii"
-      ],
+      "author": "Vazkii",
       "projectId": "250363",
       "fileId": "3326041",
       "type": "BOTH"
@@ -1792,9 +1659,7 @@
       "name": "Chunk-Pregenerator",
       "version": "3.0.5",
       "mcVersion": "1.16+",
-      "authors": [
-        "Speiger"
-      ],
+      "author": "Speiger",
       "projectId": "267193",
       "fileId": "3237965",
       "type": "SERVER"
@@ -1918,9 +1783,7 @@
       "name": "Name Pain",
       "version": "1.3.1",
       "mcVersion": "1.16+",
-      "authors": [
-        "naqaden"
-      ],
+      "author": "naqaden",
       "projectId": "366263",
       "fileId": "3100986",
       "type": "CLIENT"
@@ -1948,9 +1811,7 @@
       "name": "Coloured Tooltips",
       "version": "11.0.2",
       "mcVersion": "1.16.5",
-      "authors": [
-        "DarkhaxDev"
-      ],
+      "author": "DarkhaxDev",
       "projectId": "285684",
       "fileId": "3181694",
       "type": "CLIENT"
@@ -1960,9 +1821,7 @@
       "name": "Pick Up Notifier",
       "version": "1.2",
       "mcVersion": "1.16.3+",
-      "authors": [
-        "Fuzs_"
-      ],
+      "author": "Fuzs_",
       "projectId": "351441",
       "fileId": "3066596",
       "type": "CLIENT"
@@ -1973,9 +1832,7 @@
       "name": "Villager Names",
       "version": "2.9",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "345854",
       "fileId": "3219218",
       "type": "BOTH"
@@ -1986,9 +1843,7 @@
       "name": "Underwater Enchanting",
       "version": "1.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "348758",
       "fileId": "3219238",
       "type": "BOTH"
@@ -1999,9 +1854,7 @@
       "name": "Stack Refill",
       "version": "1.7",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "411813",
       "fileId": "3219273",
       "type": "BOTH"
@@ -2012,9 +1865,7 @@
       "name": "GUI Compass",
       "version": "1.5",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "347595",
       "fileId": "3220590",
       "type": "CLIENT"
@@ -2025,9 +1876,7 @@
       "name": "Full Brightness Toggle",
       "version": "1.2",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "391656",
       "fileId": "3220614",
       "type": "CLIENT"
@@ -2038,9 +1887,7 @@
       "name": "GUI Clock",
       "version": "2.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "347529",
       "fileId": "3220595",
       "type": "CLIENT"
@@ -2051,9 +1898,7 @@
       "name": "Giant Spawn",
       "version": "2.4",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "347921",
       "fileId": "3220610",
       "type": "BOTH"
@@ -2064,9 +1909,7 @@
       "name": "Fish On The Line",
       "version": "1.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "450603",
       "fileId": "3220624",
       "type": "BOTH"
@@ -2091,9 +1934,7 @@
       "name": "Double Doors",
       "version": "2.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "348831",
       "fileId": "3220695",
       "type": "BOTH"
@@ -2104,9 +1945,7 @@
       "name": "Better Spawner Control",
       "version": "1.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "344036",
       "fileId": "3220759",
       "type": "BOTH"
@@ -2117,9 +1956,7 @@
       "name": "Catalogue",
       "version": "1.2.1",
       "mcVersion": "1.16.5",
-      "authors": [
-        "MrCrayfish"
-      ],
+      "author": "MrCrayfish",
       "projectId": "459701",
       "fileId": "3335979",
       "type": "CLIENT"
@@ -2157,9 +1994,7 @@
       "name": "Collective",
       "version": "2.26",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "342584",
       "fileId": "3283885",
       "type": "BOTH"
@@ -2170,9 +2005,7 @@
       "name": "Extended Bone Meal",
       "version": "1.3",
       "mcVersion": "1.16.5",
-      "authors": [
-        "Serilum"
-      ],
+      "author": "Serilum",
       "projectId": "367534",
       "fileId": "3220655",
       "type": "BOTH"
@@ -2198,9 +2031,7 @@
       "name": "SwingThroughGrass",
       "version": "1.5.3",
       "mcVersion": "1.16.4+",
-      "authors": [
-        "exidex"
-      ],
+      "author": "exidex",
       "projectId": "264353",
       "fileId": "3103028",
       "type": "BOTH"
@@ -2211,9 +2042,7 @@
       "name": "Cuneiform",
       "version": "1.2.5",
       "mcVersion": "1.16.3+",
-      "authors": [
-        "azmalent"
-      ],
+      "author": "azmalent",
       "projectId": "419176",
       "fileId": "3320687",
       "type": "BOTH"
